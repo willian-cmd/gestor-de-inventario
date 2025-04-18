@@ -22,4 +22,4 @@ Para ejecutar el proyecto, necesitas:
 2. Abre `index.html` en un navegador para ver el gestor de inventario.
 3. Si deseas ejecutar las pruebas automatizadas, asegúrate de tener Python y Selenium instalados. Luego, ejecuta el archivo `test.py`.
 
-con python3 test.py desde la terminal (esto para la prueba automatizada)
+con python3 pytest test.py --html=reporte.html desde la terminal (esto para la prueba automatizada con reporte html)
