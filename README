@@ -1,0 +1,25 @@
+# Gestor de Inventario
+
+Este proyecto es un sistema de **gestión de inventario** diseñado para **agregar, buscar, editar y eliminar productos** de un inventario. Está desarrollado con **HTML**, **CSS** y **JavaScript**. Se realiza la automatización de pruebas con **Selenium** para verificar su correcto funcionamiento.
+
+## Tecnologías utilizadas
+
+- **HTML**: Estructura de la página web.
+- **CSS**: Estilos y diseño.
+- **JavaScript**: Lógica del sistema.
+- **Selenium**: Automatización de pruebas.
+
+## Requisitos
+
+Para ejecutar el proyecto, necesitas:
+
+- Un navegador compatible con Selenium (Safari en este caso).
+- Python y la librería Selenium instalados para realizar pruebas automatizadas.
+
+## Cómo ejecutar el proyecto
+
+1. Clona este repositorio.
+2. Abre `index.html` en un navegador para ver el gestor de inventario.
+3. Si deseas ejecutar las pruebas automatizadas, asegúrate de tener Python y Selenium instalados. Luego, ejecuta el archivo `test.py`.
+
+con python3 test.py desde la terminal (esto para la prueba automatizada)

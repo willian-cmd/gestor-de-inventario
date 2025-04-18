@@ -1,0 +1,70 @@
+body {
+    font-family: Calibri, sans-serif;
+    padding: 20px;
+    background-color: #f4f4f4;
+  }
+  
+  .search-bar {
+    margin-bottom: 15px;
+  }
+  
+  .search-bar input {
+    padding: 8px;
+    width: 300px;
+  }
+  
+  .search-bar button {
+    padding: 8px 15px;
+    margin-left: 5px;
+  }
+  
+  form input, button {
+    margin: 5px;
+    padding: 8px;
+  }
+  
+  table {
+    margin-top: 20px;
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  table, th, td {
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  th {
+    background-color: #2c3e50;
+    color: white;
+  }
+  
+  .action-btn {
+    padding: 5px 10px;
+    margin: 0 3px;
+    cursor: pointer;
+  }
+  
+  .edit-btn {
+    background-color: #f39c12;
+    color: white;
+    border: none;
+  }
+  
+  .delete-btn {
+    background-color: #e74c3c;
+    color: white;
+    border: none;
+  }
+  
+  #submit-btn {
+    background-color: #2ecc71;
+    color: white;
+    border: none;
+  }
+  
+  #cancel-edit {
+    background-color: #95a5a6;
+    color: white;
+    border: none;
+  }
